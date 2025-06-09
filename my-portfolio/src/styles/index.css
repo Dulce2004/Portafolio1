@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Modo oscuro general */
+body.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+/* Aplica a About.jsx */
+.dark-bg {
+  background-color: #1f1f1f !important;
+}
+
+.dark-text {
+  color: #f0f0f0 !important;
+}
+
+.dark-card {
+  background-color: #2c2c2c !important;
+  color: #f5f5f5;
+}
+
+/* Imagen responsiva */
+.object-fit-cover {
+  object-fit: cover;
+}
+
+/* Asegura que el texto se mantenga claro */
+.card-body p {
+  font-size: 1.1rem;
+  line-height: 1.7;
+}
+
+.dark-bg {
+  background-color: #1f1f1f !important;
+}
+
+.dark-text {
+  color: #f0f0f0 !important;
+}
+
+.dark-card {
+  background-color: #2a2a2a;
+  color: #f0f0f0;
+}
+
+.project-img {
+  transition: transform 0.3s ease;
+}
+
+.project-img:hover {
+  transform: scale(1.03);
+}

@@ -1,0 +1,16 @@
+.dark-bg {
+  background-color: #1c1c1e !important;
+}
+
+.dark-text {
+  color: #f8f9fa !important;
+}
+
+.dark-card {
+  background-color: #2c2c2e;
+  color: #f8f9fa;
+}
+
+.object-fit-cover {
+  object-fit: cover;
+}
