@@ -14,16 +14,16 @@ Este es mi portafolio personal como desarrolladora web en formación. Fue constr
 🔗 [Ver portafolio](https://calicheoficial.lat/231143/Portafolio/dist/index.html)
 
 ##  Estructura del proyecto
-  my-portfolio/
-  ├── public/
-  ├── src/
-  │ ├── assets/
-  │ ├── components/
-  │ ├── pages/
-  │ └── App.jsx
-  ├── index.html
-  ├── vite.config.js
-  └── README.md
+    my-portfolio/
+    ├── public/
+    ├── src/
+    │ ├── assets/
+    │ ├── components/
+    │ ├── pages/
+    │ └── App.jsx
+    ├── index.html
+    ├── vite.config.js
+    └── README.md
 
 ##  Instalación local
 
