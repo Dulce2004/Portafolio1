@@ -9,11 +9,11 @@ Este es mi portafolio personal como desarrolladora web en formación. Fue constr
 -  Bootstrap + estilos personalizados
 -  AOS (Animate On Scroll)
 
-## 🌐 Demo en línea
+## 🌐 LINK AL PORTAFOLIO 
 
 🔗 [Ver portafolio](https://calicheoficial.lat/231143/Portafolio/dist/index.html)
 
-## 🧱 Estructura del proyecto
+##  Estructura del proyecto
   my-portfolio/
   ├── public/
   ├── src/
@@ -25,7 +25,7 @@ Este es mi portafolio personal como desarrolladora web en formación. Fue constr
   ├── vite.config.js
   └── README.md
 
-## 📦 Instalación local
+##  Instalación local
 
 Clonar y correr el proyecto:
 
